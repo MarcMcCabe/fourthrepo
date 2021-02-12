@@ -20,6 +20,8 @@
   
 */
 
+const int ledPin =  13;      // the number of the LED pin
+
 // the setup routine runs once when you press reset:
 void setup() {
   
